@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+.objects{
+    color: red;
+}
+.labels{
+    font-size: 22px;
+    color: purple;
+}
+.header{
+    font-size: 100px;
+    color: greenyellow;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#webcam_view{
+    color:gold;
+}
+.camera_elements{
+    width: 350px;
+    height: 300px;
+    border-width: 5px;
+    border-color: gold;
+    border-style: groove;
+}
+#footer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        right: 1px;
+        background-color: grey;
+}
